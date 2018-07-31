@@ -1,4 +1,4 @@
 <?php
 
-require_once PLUGIN_INC.'class-admin-page.php';
+require_once CLASSES.'class-admin-page.php';
 
