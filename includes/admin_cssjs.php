@@ -8,7 +8,7 @@ class Admin_cssjs {
     }
     
     public function admin_css(){
-        wp_register_style( 'exam_plugin_admin_css', CSS . 'admin_css.css', false, '1.0.0' );
+        wp_enqueue_style( 'exam_plugin_admin_css', CSS . 'admin_css.css', '', '1.0.0' );
     }
 
 }
