@@ -9,7 +9,7 @@
  */
 
 //Requir difine 
-define('_PLUGPRE','exam'); // prefix
+define('_PLUGPRE','exam_'); // prefix
 define('_EXAMDOMAIN', 'exam'); // use textdomain
 define('PLUGDIR', plugin_dir_path( __FILE__ )); // plungin directory path
 define('PLUGDIRURL', plugin_dir_url( __FILE__ )); // plugin derectory url 
